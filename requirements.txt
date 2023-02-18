@@ -1,0 +1,6 @@
+Flask==2.0.1
+Flask-RESTful==0.3.9
+Flask-RESTful-Swagger==0.2.14
+SQLAlchemy==1.4.25
+pytest==6.2.5
+pytest-flask==1.2.0
